@@ -27,3 +27,7 @@ To run this project:
 
 Polamreddy Gayathri  
 Download the complete ZIP file here.. (https://drive.google.com/file/d/1sn3pch5Z3709Txv5vg4o5QW6ZmfDt2XV/view?usp=sharing)
+## APK File
+
+The installable APK file `app-debug.apk` is included in the submission ZIP for easy installation on Android devices.
+
